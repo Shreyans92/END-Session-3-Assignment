@@ -62,7 +62,7 @@ Assignment Consists of total 6 questions with some questions having sub parts to
     10<<DD<<99 & 1000<<DDDD<<9999
      
 
-**Q6): generate_number_plates_dl(area_name,numbers)**
+**Q6): generate_number_plates_dl(numbers)**
 
     Question :  Write the above again from scratch where KA can be changed to DL, and 1000/9999 ranges can be provided.
  
